@@ -1,0 +1,16 @@
+{
+  "name": "graphql-consume-from-js",
+  "version": "1.0.0",
+  "description": "Project that use to consume GraphQL API with different options",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-fetch": "^0.7.0",
+    "axios": "^0.27.2",
+    "isomorphic-fetch": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
